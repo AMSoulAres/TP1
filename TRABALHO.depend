@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1669779753 source:g:\gabri\documents\trabalho\dominios.cpp
+	<iostream>
+	"Dominios.h"
+	"ctype.h"
+	<regex>
+
+1669776011 g:\gabri\documents\trabalho\dominios.h
+	<stdexcept>
+
+1669786399 source:g:\gabri\documents\trabalho\main.cpp
+	<iostream>
+	"dominios.h"
+	"TesteDominios.h"
+	"TesteEntidades.h"
+	"Entidades.h"
+
+1669786512 source:g:\gabri\documents\trabalho\testeentidades.cpp
+	"TesteEntidades.h"
+
+1669781837 source:g:\gabri\documents\trabalho\testedominios.cpp
+	"TesteDominios.h"
+
+1669783847 g:\gabri\documents\trabalho\testedominios.h
+	"dominios.h"
+
+1669775815 source:g:\gabri\documents\trabalho\entidades.cpp
+
+1669785730 g:\gabri\documents\trabalho\testeentidades.h
+	"Entidades.h"
+	"dominios.h"
+
+1669785675 g:\gabri\documents\trabalho\entidades.h
+	"dominios.h"
+	<string>
+
+1669775815 source:g:\gabri\documents\trabalhov1.0.1\trabalho\entidades.cpp
+
+1669786570 source:g:\gabri\documents\trabalhov1.0.1\trabalho\main.cpp
+	<iostream>
+	"dominios.h"
+	"TesteDominios.h"
+	"TesteEntidades.h"
+	"Entidades.h"
+
+1669776011 g:\gabri\documents\trabalhov1.0.1\trabalho\dominios.h
+	<stdexcept>
+
+1669783847 g:\gabri\documents\trabalhov1.0.1\trabalho\testedominios.h
+	"dominios.h"
+
+1669785730 g:\gabri\documents\trabalhov1.0.1\trabalho\testeentidades.h
+	"Entidades.h"
+	"dominios.h"
+
+1669785675 g:\gabri\documents\trabalhov1.0.1\trabalho\entidades.h
+	"dominios.h"
+	<string>
+
+1669781837 source:g:\gabri\documents\trabalhov1.0.1\trabalho\testedominios.cpp
+	"TesteDominios.h"
+
+1669786512 source:g:\gabri\documents\trabalhov1.0.1\trabalho\testeentidades.cpp
+	"TesteEntidades.h"
+
+1670085331 source:g:\gabri\documents\trabalhov1.0.1\trabalho\dominios.cpp
+	<iostream>
+	"Dominios.h"
+	"ctype.h"
+	<regex>
+
