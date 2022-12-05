@@ -43,7 +43,7 @@
 	"TesteEntidades.h"
 	"Entidades.h"
 
-1669776011 g:\gabri\documents\trabalhov1.0.1\trabalho\dominios.h
+1670265640 g:\gabri\documents\trabalhov1.0.1\trabalho\dominios.h
 	<stdexcept>
 
 1669783847 g:\gabri\documents\trabalhov1.0.1\trabalho\testedominios.h
@@ -53,7 +53,7 @@
 	"Entidades.h"
 	"dominios.h"
 
-1669785675 g:\gabri\documents\trabalhov1.0.1\trabalho\entidades.h
+1670266206 g:\gabri\documents\trabalhov1.0.1\trabalho\entidades.h
 	"dominios.h"
 	<string>
 
